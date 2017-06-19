@@ -1,4 +1,11 @@
-# S5A1
+# ACD_FE2.1.1_Session_5_Assignment_1_Main
+
+Steps to run project
+1. Download from github
+2. execute command npm install
+3. execute command ng serve
+
+------------------------------------------------------------
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.0.
 
